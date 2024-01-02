@@ -1,4 +1,4 @@
-<img width="609" alt="image" src="https://github.com/6HyeonHee/To-do-List/assets/119562341/92ce47b3-ca9f-4626-8672-88df28dc8476">
+<p align="center"><img width="609" alt="image" src="https://github.com/6HyeonHee/To-do-List/assets/119562341/92ce47b3-ca9f-4626-8672-88df28dc8476"></p>
 
 ### 개요
 간단한 투두 제작 웹페이지로 fornt-end만 개발되어있는 상태입니다.
