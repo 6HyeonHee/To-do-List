@@ -10,6 +10,12 @@ body {
   width: 100%;
 }
 
+header{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
 .wrapper {
   margin: 120px auto;
   max-width: 700px;
